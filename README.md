@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishal Sonawane
-- 👀 I’m interested in Full Software Engineer
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Spring boot 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full stack
 - 📫 How to reach me 
 
 <!---
