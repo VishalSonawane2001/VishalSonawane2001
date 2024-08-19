@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software Engineer👻
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on full-stack
-- 📫 How to reach me https://www.linkedin.com/in/vishal-sonawane-b408791b4 ❣️😍😊  
+- 📫 How to reach me https://www.linkedin.com/in/vishal-sonawane-b408791b4 ❣️😍😊
+
+  
 
 <!---
 VishalSonawane2001/VishalSonawane2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
